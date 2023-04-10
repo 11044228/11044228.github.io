@@ -82,6 +82,10 @@ main {
     font-family: 'Noto Sans TC', sans-serif;
 }
 
+.card2 p {
+    text-align: left;
+}
+
 .card3 {
     background-color: #faedcd;
     text-align: center;
@@ -94,6 +98,7 @@ main {
 
 .card3 p {
     margin-top: 30px;
+    text-align: left;
 }
 
 .card4 {
@@ -108,6 +113,7 @@ main {
 
 .card4 p {
     margin-top: 30px;
+    text-align: left;
 }
 
 .card5 {
@@ -123,6 +129,7 @@ main {
 .card5 p {
     margin-top: 30px;
     font-family: 'Noto Sans TC', sans-serif;
+    text-align: left;
 
 }
 
